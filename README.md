@@ -1,1 +1,1 @@
-# tk_study
+# pandas로 TKinter 이용해서 GUI (그래픽 유저 인터페이스)를 만들어보는 repository 입니다.
